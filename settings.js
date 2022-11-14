@@ -12,31 +12,7 @@ global.APIKeys = {
 }
 
 global.alivemsg = `📤I am alive now😇
-🤷‍♀️How can I help you?😉` //Costomize Alive Message (🌸🌍𝗜'𝗺 𝗠𝗗 𝗕𝗢𝗧🤖♥️
-
-_/﹋_
-
-(҂`_´)
-
-<,︻╦╤─ ҉ - -
-
-_/﹋_
-
-╔══╗╔╗ ♡ ♡ ♡
-
-╚╗╔╝║║╔═╦╦╦╔╗
-
-╔╝╚╗║╚╣║║║║╔╣
-
-╚══╝╚═╩═╩═╩═╝
-
-ஜ۞ஜ YOU ஜ۞ஜ
-
-*MD_Official.🙂✨♥️* 
-
-🖤♠️ *ᴳᵉⁿᵉʳᵃᵗᵉᵈ ᴮʸ* -: _© ᴍʀ ᴄʏʙᴇʀ ᴍᴀɴᴜʟ ᴏғғɪᴄɪᴀʟ_🖤♠️)
-
-
+🤷‍♀️How can I help you?😉` //Costomize Alive Message (🌸🌍𝗜'𝗺 𝗠𝗗 𝗕𝗢𝗧🤖♥)
 global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = false //auto reading in gc (true to on, false to off)
