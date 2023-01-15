@@ -11,12 +11,12 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = `📤I am alive now😇
-🤷‍♀️How can I help you?😉` //Costomize Alive Message (🌸🌍𝗜'𝗺 𝗠𝗗 𝗕𝗢𝗧🤖♥)
-global.autoTyping = false //auto tying in gc (true to on, false to off)
-global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
-global.autoReadGc = false //auto reading in gc (true to on, false to off)
-global.autoRecord = false //auto recording (true to on, false to off)
+global.alivemsg = `📤I am alive now...😇
+🧑‍💻How can I help you?😌♥️` //Costomize Alive Message (type your message in ``)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
+global.autoreadpmngc = true //auto reading in gc and pm (true to on, false to off)
+global.autoReadGc = true //auto reading in gc (true to on, false to off)
+global.autoRecord = true //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -36,7 +36,7 @@ global.location = "India, Mizoram, Aizawl" // location
 //bot body 
 global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
 
-global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in this)
+global.dragonchat = "true"  // chat bot  "true" / "false" (200 auto replies in this)
 global.callblock = "true" // call block "true" / "false" ("true"  to block callers)
 global.antibad = "true" // To remove bad word senders
 global.antispam = "true" // To remove or block spammers
@@ -50,7 +50,7 @@ global.ownertag = '+94760069363' //your tag number
 global.botname = '🌸🌍♥️𝐌𝐃 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𝐁𝐎𝐓♥️🌍🌸' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
 global.author = "©ʍɾ ℂ𝕪𝕓𝕖𝕣 ʍɑղմӀ օƒƒíϲíɑӀ♠️" // sticker author
-global.dragonemoji = '🌸' // Menu emoji
+global.dragonemoji = '🧑‍💻' // Menu emoji
 global.footer = '[ ©ʍɾ ℂ𝕪𝕓𝕖𝕣 ʍɑղմӀ օƒƒíϲíɑӀ♠️ ]' //
 
 //database
